@@ -1,0 +1,32 @@
+h1 {
+    text-align: center; text-decoration: underline;
+}
+h3 {
+    text-decoration: underline; font-style: bold; color: #0079bf;
+}
+h4 {
+    font-style: bold; font-size: medium;
+}
+h5 {
+    font-size: small; font-style: normal;
+}
+ul, li {
+    font-size: small;
+}
+.contact {
+    font-size: small; text-align: center;
+}
+body {
+margin: 25px;
+background-color: whitesmoke; font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.dates {font-size: small;}
+.Column {
+    float: right; width:40%; padding-right: 60px;
+}
+.row:after {
+    content: ""; display: table; clear: both;
+}
+.footer {
+    text-align: center;
+}
